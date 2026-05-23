@@ -16,6 +16,5 @@ simulation project (UAB), and many more.
 - **EO-Pattern MPNN** — Mathematics BSc thesis on hypergraph message passing (UCLA, supervised by Prof. Guido Montúfar)
 - **Speech Command Classification** — shallow CNN from scratch on Mel spectrograms (UCLA Math 156, group project)
 - **Aluminium Durability Prediction** — gradient-boosted trees & model stacking for a Kaggle competition (UCLA STATS 101C, group project)
-- **PrimeNumberTheoremAnd** — contributor to the Lean 4 formalization of the Prime Number Theorem
-
+- **Lean 4 Formalization** — proofs of Chebyshev and prime-counting bounds as part of the PrimeNumberTheoremAnd project (UCLA Math 199, supervised by Prof. Terence Tao)
 [LinkedIn](https://www.linkedin.com/in/adrián-ruiz-doblas)
